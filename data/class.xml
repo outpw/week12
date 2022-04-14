@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<people>
+   <person id="1">
+      <firstName>Phil</firstName>
+      <lastName>White</lastName>
+      <role>Instructor</role>
+      <seatPosition>Prof's seat</seatPosition>
+      <age>27</age>
+   </person>
+    <person id="2">
+       <firstName>Caitlin</firstName>
+       <lastName>McShane</lastName>
+       <role>Teaching Assistant</role>
+       <seatPosition>Front of lab</seatPosition>
+       <age>75</age>
+    </person>
+     <person id="3">
+        <firstName>Julia</firstName>
+        <lastName>Bierylo</lastName>
+        <role>Student</role>
+        <seatPosition>Back of classroom</seatPosition>
+        <age>65</age>
+    </person>
+     <person id="4">
+        <firstName>Ally</firstName>
+        <lastName>Fitts</lastName>
+        <role>Student</role>
+        <seatPosition>Back of classroom</seatPosition>
+        <age>79</age>
+    </person>
+     <person id="5">
+        <firstName>Jen</firstName>
+        <lastName>Galushka</lastName>
+        <role>Student</role>
+        <seatPosition>Middle of classroom</seatPosition>
+        <age>88</age>
+    </person>
+     <person id="6">
+        <firstName>Jordan</firstName>
+        <lastName>Gornell</lastName>
+        <role>Student</role>
+        <seatPosition>Front of classroom</seatPosition>
+        <age>57</age>
+    </person>
+     <person id="7">
+        <firstName>James</firstName>
+        <lastName>Seaward</lastName>
+        <role>Student</role>
+        <seatPosition>Back of classroom</seatPosition>
+        <age>100</age>
+    </person>
+     <person id="8">
+        <firstName>Kyle</firstName>
+        <lastName>Smart</lastName>
+        <role>Student</role>
+        <seatPosition>Back of classroom</seatPosition>
+        <age>100</age>
+    </person>
+     <person id="9">
+        <firstName>Adam</firstName>
+        <lastName>Strassburger</lastName>
+        <role>Student</role>
+        <seatPosition>Side of classroom</seatPosition>
+        <age>106</age>
+    </person>
+     <person id="10">
+        <firstName>Will</firstName>
+        <lastName>Tickman</lastName>
+        <role>Student</role>
+        <seatPosition>Side of classroom</seatPosition>
+        <age>67</age>
+    </person>
+     <person id="11">
+        <firstName>Vu</firstName>
+        <lastName>Tran</lastName>
+        <role>Student</role>
+        <seatPosition>Middle of classroom</seatPosition>
+        <age>81</age>
+    </person>
+</people>
