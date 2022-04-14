@@ -1,0 +1,92 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstName": "Phil",
+      "lastName": "White",
+      "role": "Instructor",
+      "seatPosition": "Prof's seat",
+      "age": 27
+    },
+    {
+      "id": 2,
+      "firstName": "Caitlin",
+      "lastName": "McShane",
+      "role": "Teaching Assistance",
+      "seatPosition": "Front of lab",
+      "age": 75
+    },
+    {
+      "id": 3,
+      "firstName": "Julia",
+      "lastName": "Bierylo",
+      "role": "Student",
+      "seatPosition": "Back of classroom",
+      "age": 65
+    },
+    {
+      "id": 4,
+      "firstName": "Ally",
+      "lastName": "Fitts",
+      "role": "Student",
+      "seatPosition": "Back of classroom",
+      "age": 79
+    },
+    {
+      "id": 5,
+      "firstName": "Jen",
+      "lastName": "Galushka",
+      "role": "Student",
+      "seatPosition": "Middle of classroom",
+      "age": 88
+    },
+    {
+      "id": 6,
+      "firstName": "Jordan",
+      "lastName": "Gornell",
+      "role": "Student",
+      "seatPosition": "Front of classroom",
+      "age": 57
+    },
+    {
+      "id": 7,
+      "firstName": "James",
+      "lastName": "Seaward",
+      "role": "Student",
+      "seatPosition": "Back of classroom",
+      "age": 100
+    },
+    {
+      "id": 8,
+      "firstName": "Kyle",
+      "lastName": "Smart",
+      "role": "Student",
+      "seatPosition": "Back of classroom",
+      "age": 93
+    },
+    {
+      "id": 9,
+      "firstName": "Adam",
+      "lastName": "Strassburger",
+      "role": "Student",
+      "seatPosition": "Side of classroom",
+      "age": 106
+    },
+    {
+      "id": 10,
+      "firstName": "Will",
+      "lastName": "Tickman",
+      "role": "Student",
+      "seatPosition": "Side of classroom",
+      "age": 67
+    },
+    {
+      "id": 11,
+      "firstName": "Vu",
+      "lastName": "Tran",
+      "role": "Student",
+      "seatPosition": "Middle of classroom",
+      "age": 81
+    }
+  ]
+}
